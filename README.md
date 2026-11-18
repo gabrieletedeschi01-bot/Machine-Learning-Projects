@@ -23,13 +23,12 @@ Convolutional neural networks classify images from a 2D car-racing environment i
 ├── homework-1-robot-kinematics/
 │   ├── README.md
 │   ├── homework_1.py
-│   └── report/
-│       └── report.pdf
+│   └── Homework_1_Machine_Learning.pdf
+│   
 └── homework-2-car-racing/
     ├── README.md
     ├── homework_2.py
-    └── report/
-        └── report.pdf
+    └── Homework_2_Machine_Learning.pdf
 ```
 
 ## Datasets
