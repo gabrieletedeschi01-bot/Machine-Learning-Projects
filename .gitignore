@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Training outputs and serialized models
+*.keras
+*.h5
+*.h4
+*.joblib
+*.pkl
+results/
+
+# Local datasets (not versioned)
+homework-1-robot-kinematics/data/
+homework-2-car-racing/data/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
